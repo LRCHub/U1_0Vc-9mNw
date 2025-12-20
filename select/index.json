@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "UP (KARINA Solo)",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-20T08:44:53.891030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UP - KARINA Solo",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/01_UP_-_KARINA_Solo_aespa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UP - KARINA Solo",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_UP_-_KARINA_Solo_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UP (KARINA Solo)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_UP_(KARINA_Solo)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "UP (KARINA Solo)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_UP_(KARINA_Solo)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "UP (KARINA Solo)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_UP_(KARINA_Solo)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "UP (KARINA Solo)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/06_UP_(KARINA_Solo)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UP (KARINA Solo)",
+      "artist": "유지민 (KARINA)",
+      "has_synced": true,
+      "path": "select/07_UP_(KARINA_Solo)_유지민_(KARINA).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UP - KARINA Solo",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_UP_-_KARINA_Solo_aespa.txt"
+    }
+  ]
+}
